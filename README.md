@@ -12,3 +12,5 @@ c语言项目集合
 #### tiny-sqlite
 mini 版 sqlite
 
+#### file-op-commands
+阉割-mini 版 linux 命令
